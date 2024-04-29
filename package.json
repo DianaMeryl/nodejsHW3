@@ -1,0 +1,17 @@
+{
+  "name": "nodejshw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start-31": "node ./hw31/index.js",
+    "start-32": "node ./hw32/index.js",
+    "start-33": "node ./hw33/index.js", 
+    "start-34": "node ./hw34/index.js",
+    "start-35": "node ./hw35/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
